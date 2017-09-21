@@ -7,4 +7,6 @@
 !WebContent
 !WebContent/**
 
+!.gitignore
+
 !*.md
